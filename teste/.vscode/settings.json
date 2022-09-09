@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "*.py": "python",
-        "*.txt": "plaintext",
-        "glut.h": "c",
-        "freeglut_std.h": "c",
-        "math.h": "c"
-    }
-}
